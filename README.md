@@ -1,4 +1,4 @@
-# Laravel 5 Feeds
+# Laravel 5 Feeds - Crypto Terminal Version
 
 [![Latest Stable Version](https://poser.pugx.org/willvincent/feeds/v/stable.svg)](https://packagist.org/packages/willvincent/feeds)
 [![SensioLabsInsight](https://img.shields.io/sensiolabs/i/9098208d-abd1-44ea-af47-a0c42a01cb75.svg?style=flat-square)](https://insight.sensiolabs.com/projects/9098208d-abd1-44ea-af47-a0c42a01cb75)
